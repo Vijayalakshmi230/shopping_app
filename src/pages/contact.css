@@ -1,4 +1,4 @@
-.Page {
+.rey1{
     background-color: darkgrey;
 }
 
@@ -9,11 +9,14 @@
 
 .styled-text {
     color: #333;
-    font-size: 15px;
+    font-size: 35px;
     font-family: Arial, sans-serif;
     font-weight: bold;
     margin-left: 10px;
-
+    text-align: center;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+    line-height: 5.5;
+    
 }
 
 .pic2 {
